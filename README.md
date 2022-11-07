@@ -2,10 +2,10 @@
 <h3 align="center"><img height="250" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"/></h3>
   
 ```
-Estudante de Ciência da Computação - Estácio, 
-Sou fascinado por computação desde novo, tenho certa experiência na área 
+Computer Science Student - Estácio
+Fascinated by computing since I was young, I have some experience in the area
 
-🔭 Estudando: Java e Typescript
+🔭 Studying: Node, React and Typescript
 ```
   
 <div align="center">
@@ -15,7 +15,7 @@ Sou fascinado por computação desde novo, tenho certa experiência na área
 </div>
 
 <div style="display: inline_block" align="center">
-  <img align="center" alt="itati-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="itati-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="itati-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="itati-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="itati-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
