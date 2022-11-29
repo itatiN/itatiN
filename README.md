@@ -10,8 +10,8 @@ Fascinated by computing since I was young, I have some experience in the area
   
 <div align="center">
   <a href="https://github.com/itatiN">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=itatiN&theme=github_dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itatiN&layout=compact&theme=github_dark&langs_count=6"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=itatiN />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itatiN&layout=compact&langs_count=6"/>
 </div>
 
 <div style="display: inline_block" align="center">
