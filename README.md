@@ -1,6 +1,6 @@
-<h1 align="center" > Hey, I'm Itatiano Filho<h1>
-<div align="center"><img height="250" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"/><div/>
-  
+<h1 align="center"> Hi I'm Itatiano<p/>
+<h3 align="center"><img height="250" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"/>
+
 ```
 Computer Science Student - Estácio
 Fascinated by computing since I was young, I have some experience in the area
