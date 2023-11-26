@@ -1,9 +1,9 @@
-<img align="right" height="640" src="https://media.discordapp.net/attachments/1129953177370890251/1178137912072736808/38fb0d15-4885-4fdb-aa2a-a99cfc351573.png?ex=65750d6e&is=6562986e&hm=c252a746503183aa27f1fd51f1fedc4d37c9d13a29effb47d16edc3755d9f3b5&=&format=webp">
+<img align="right" height="640" src="https://media.discordapp.net/attachments/1129953177370890251/1178137202170015754/a4701503-1605-4e75-b1c2-c9e864b0c43d.png?ex=65750cc5&is=656297c5&hm=39a2da3fbad3210cec62e12399ca0e2325a5f883cee7bfa01a64d7b96b53ed3f&=&format=webp">
 
 # 🔭  Hi I'm Itatiano! 
 I have over a year of experience in the development area, I'm focusing on the backend but I'm learning a little bit of everything every day! 
 What sparked my curiosity in the area was gamehacking, I liked studying how video game hacks worked, eventually this led me to coding.
-My hoobies are playing games, reading and everything related to music.<br>
+My hoobies are playing games and everything related to music.<br>
 
 
 📖 Studying at the moment: Python, Elixir<br><br>
