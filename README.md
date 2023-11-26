@@ -1,32 +1,18 @@
-<h1 align="center"> Hi I'm Itatiano<p/>
-<h3 align="center"><img height="250" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"/>
+<img align="right" height="640" src="https://media.discordapp.net/attachments/1129953177370890251/1178137912072736808/38fb0d15-4885-4fdb-aa2a-a99cfc351573.png?ex=65750d6e&is=6562986e&hm=c252a746503183aa27f1fd51f1fedc4d37c9d13a29effb47d16edc3755d9f3b5&=&format=webp">
 
-```
-Computer Science Student - Estácio
-Fascinated by computing since I was young, I have some experience in the area
+# 🔭  Hi I'm Itatiano! 
+I have over a year of experience in the development area, I'm focusing on the backend but I'm learning a little bit of everything every day! 
+What sparked my curiosity in the area was gamehacking, I liked studying how video game hacks worked, eventually this led me to coding.
+My hoobies are playing games, reading and everything related to music.<br>
 
-🔭 Studying: Salesforce, NestJS
-```
-  
-<div align="center">
-  <a href="https://github.com/itatiN">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=itatiN&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itatiN&theme=dracula&layout=compact&langs_count=6"/>
-</div>
 
-<div style="display: inline_block" align="center">
-  <img align="center" alt="itati-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="itati-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="itati-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="itati-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="itati-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="itati-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="itati-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="itati-salesforce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
-  <img align="center" alt="itati-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="itati-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">   
-  <img align="center" alt="itati-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">   
-</div>
+📖 Studying at the moment: Python, Elixir<br><br>
 
+☕**Let's talk**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://[https://www.linkedin.com/in/itatianofilho])<br><br>
+
+ 💻 **My GitHub Stats**
  
- 
+[![GitHub Streak](https://streak-stats.demolab.com?user=itatiN&theme=blue-navy&hide_border=true)](https://git.io/streak-stats)
+
