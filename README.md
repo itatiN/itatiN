@@ -1,4 +1,4 @@
-<img align="right" height="640" src="https://media.discordapp.net/attachments/1129953177370890251/1178142515258462319/2675eaf6-5aec-43a7-a5d3-490d72d81fa2.png?ex=657511b8&is=65629cb8&hm=6d899e06e5c5ba7f9e200f010a0eed877ada6adf79d47d5ae144f4037c328888&=&format=webp">
+<img align="right" height="640" src="">
 
 # 🔭  Hi I'm Itatiano! 
 I have over a year of experience in the development area, I'm focusing on the backend but I'm learning a little bit of everything every day! 
