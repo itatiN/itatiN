@@ -6,13 +6,13 @@ What sparked my curiosity in the area was gamehacking, I liked studying how vide
 My hoobies are playing games, reading about topics that I like and everything related to music, especially playing guitar.<br>
 
 
-📖 Studying at the moment: Python, Elixir<br><br>
+📖 Studying at the moment: Studying for Comptia A+<br><br>
 
 ☕**Let's talk**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://[https://www.linkedin.com/in/itatianofilho])<br><br>
 
- 💻 **My GitHub Stats**
+💻 **My GitHub Stats**
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=itatiN&theme=blue-navy&hide_border=true)](https://git.io/streak-stats)
 
