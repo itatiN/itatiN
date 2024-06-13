@@ -2,11 +2,11 @@
 
 # 🔭  Hi I'm Itatiano!
 I have over a year of experience in the development area, I'm focusing on the backend but I'm learning a little bit of everything every day! 
-What sparked my curiosity in the area was gamehacking, I liked studying how video game hacks worked, eventually this led me to coding.
-My hoobies are playing games, reading about topics that I like and everything related to music, especially playing guitar.<br>
+What sparked my curiosity in the area was gamehacking, I liked studying how video game hacks worked, and eventually, this led me to coding.
+My hobbies are playing games, ricing Linux, reading about topics that I like, and everything related to music, especially playing guitar.<br>
 
 
-📖 Studying at the moment: Studying for Comptia A+<br><br>
+📖 Studying at the moment: Comptia A+, Hyprland, Design Patterns <br><br>
 
 ☕**Let's talk**  
 
