@@ -7,7 +7,7 @@ My hobbies are playing games, ricing Linux, swimming,reading about topics that I
 I'm trying to get into pentest as a hobby but there's a lot of things that I need to learn atm<br>
 
 
-📖 Studying at the moment: Comptia A+, Hyprland, Design Patterns <br><br>
+📖 Studying at the moment: Vue, Nuxt, Salesforce Flow <br><br>
 
 ☕**Let's talk**  
 
