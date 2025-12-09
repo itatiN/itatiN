@@ -1,4 +1,4 @@
-<img align="right" alt="valkyrie xb70" height="600" src="https://raw.githubusercontent.com/itatiN/itatiN/main/ZUMMMMM.png">
+<img align="right" alt="valkyrie xb70" height="320" src="https://raw.githubusercontent.com/itatiN/itatiN/main/ZUMMMMM.png">
 
 # 🔭  Hi I'm Itatiano!
 I have over a year of experience in the development area, I'm focusing on the backend but I'm learning a little bit of everything every day! 
