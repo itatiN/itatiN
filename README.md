@@ -1,11 +1,33 @@
-<img align="right" alt="valkyrie xb70" height="320" src="https://raw.githubusercontent.com/itatiN/itatiN/main/ZUMMMMM.png">
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>
+      <img width="400" src="https://i.imgur.com/mPShe41.gif" />
+    </td>
+    <td style="border: 0";>
+      <h1>
+        Hi, I'm Itatiano
+      </h1>
+      <p>
+        A Back-End Developer with over 3 years of experience building APIs,
+  scalable applications, and distributed systems.
+      <p>
+        Driven by a strong curiosity for cybersecurity
+      </p>
+      <h3>What I like besides coding:</h3>
+      <ul>
+        <li>
+          🎸 Bass and Guitar
+        </li>
+        <li>
+          🎮 Gaming and GameHacking
+        </li>
+        <li>
+          👨‍💻 Bug Bounty
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-# 🔭 Hi I'm Itatiano!
-I have over a year of experience in the development area, I'm focusing on the backend but I'm learning a little bit of everything every day! 
-What sparked my curiosity in the area was gamehacking, I liked studying how video game hacks worked, and eventually, this led me to coding.
-My hobbies are playing games, ricing Linux, reading about topics that I like, and everything related to music, especially playing bass.
-<br>
-
-☕ **Let's talk**  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/itatianofilho)<br><br>
+| ![itatiN Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itatiN&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itatiN&theme=dark) |
+| :-: | :-: |
